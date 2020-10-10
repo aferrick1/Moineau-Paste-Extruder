@@ -86,3 +86,4 @@ for i in range(step+1):
     x.append(epihypo(q*i,lobes)[0])
     y.append(epihypo(q*i,lobes)[1])
 #plt.scatter(x,y)
+#plt.show()
